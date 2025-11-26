@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SportsHubFireTV</string>
+    <string name="quiz_started">Quiz started!</string>
+    <string name="watch_clicked">Watch clicked!</string>
+    <string name="join_quiz">Join Quiz</string>
+    <string name="back">Back</string>
+    <string name="status">Status</string>
+    <string name="time">Time</string>
+    <string name="league">League</string>
+    <string name="watch">Watch</string>
+    <string name="sports_hub">Sports Hub</string>
+    <string name="live_now">Live Now</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="replays">Replays</string>
+    <string name="loading">Loading...</string>
+</resources>

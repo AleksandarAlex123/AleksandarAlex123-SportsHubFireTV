@@ -1,0 +1,44 @@
+[versions]
+android-gradle-plugin = "8.4.1"
+kotlin = "1.9.24"
+
+androidx-core = "1.13.1"
+androidx-lifecycle = "2.8.2"
+androidx-activity-compose = "1.9.0"
+
+compose-bom = "2024.10.00"
+androidx-tv = "1.0.0-alpha10"
+
+junit = "4.13.2"
+androidx-junit = "1.2.1"
+espresso-core = "3.5.1"
+
+[libraries]
+androidx-core-ktx = { group="androidx.core", name="core-ktx", version.ref="androidx-core" }
+androidx-lifecycle-runtime-ktx = { group="androidx.lifecycle", name="lifecycle-runtime-ktx", version.ref="androidx-lifecycle" }
+androidx-activity-compose = { group="androidx.activity", name="activity-compose", version.ref="androidx-activity-compose" }
+
+# Compose BOM
+androidx-compose-bom = { group="androidx.compose", name="compose-bom", version.ref="compose-bom" }
+
+# Compose UI (verzije kontroliše BOM)
+androidx-compose-ui = { group="androidx.compose.ui", name="ui" }
+androidx-compose-ui-graphics = { group="androidx.compose.ui", name="ui-graphics" }
+androidx-compose-ui-tooling-preview = { group="androidx.compose.ui", name="ui-tooling-preview" }
+androidx-compose-material3 = { group="androidx.compose.material3", name="material3" }
+
+# TV Compose
+androidx-tv-material = { group="androidx.tv", name="tv-material", version.ref="androidx-tv" }
+
+# Testing
+junit = { group="junit", name="junit", version.ref="junit" }
+androidx-junit = { group="androidx.test.ext", name="junit", version.ref="androidx-junit" }
+androidx-espresso-core = { group="androidx.test.espresso", name="espresso-core", version.ref="espresso-core" }
+
+androidx-compose-ui-test-junit4 = { group="androidx.compose.ui", name="ui-test-junit4" }
+androidx-compose-ui-tooling = { group="androidx.compose.ui", name="ui-tooling" }
+androidx-compose-ui-test-manifest = { group="androidx.compose.ui", name="ui-test-manifest" }
+
+[plugins]
+android-application = { id="com.android.application", version.ref="android-gradle-plugin" }
+kotlin-android = { id="org.jetbrains.kotlin.android", version.ref="kotlin" }

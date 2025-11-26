@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SportsHubFireTV" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Set window background to black for TV -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <!-- Disable action bar -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

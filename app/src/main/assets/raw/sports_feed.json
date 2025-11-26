@@ -1,0 +1,160 @@
+{
+  "live_now": [
+    {
+      "title": "Manchester City vs Liverpool",
+      "time": "20:00",
+      "status": "LIVE",
+      "league": "Premier League"
+    },
+    {
+      "title": "Real Madrid vs Barcelona",
+      "time": "19:30",
+      "status": "LIVE",
+      "league": "La Liga"
+    },
+    {
+      "title": "PSG vs Marseille",
+      "time": "20:45",
+      "status": "LIVE",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Juventus vs Inter",
+      "time": "21:10",
+      "status": "LIVE",
+      "league": "Serie A"
+    },
+    {
+      "title": "Bayern Munich vs RB Leipzig",
+      "time": "20:05",
+      "status": "LIVE",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Chelsea vs Arsenal",
+      "time": "19:50",
+      "status": "LIVE",
+      "league": "Premier League"
+    },
+    {
+      "title": "Atletico Madrid vs Sevilla",
+      "time": "19:40",
+      "status": "LIVE",
+      "league": "La Liga"
+    },
+    {
+      "title": "AC Milan vs Roma",
+      "time": "20:30",
+      "status": "LIVE",
+      "league": "Serie A"
+    },
+    {
+      "title": "Porto vs Benfica",
+      "time": "21:00",
+      "status": "LIVE",
+      "league": "Primeira Liga"
+    },
+    {
+      "title": "Ajax vs Feyenoord",
+      "time": "20:20",
+      "status": "LIVE",
+      "league": "Eredivisie"
+    }
+  ],
+
+  "upcoming": [
+    {
+      "title": "Bayern Munich vs Borussia Dortmund",
+      "time": "22:00",
+      "status": "UPCOMING",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "PSG vs Lyon",
+      "time": "23:30",
+      "status": "UPCOMING",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Juventus vs AC Milan",
+      "time": "21:15",
+      "status": "UPCOMING",
+      "league": "Serie A"
+    },
+    {
+      "title": "Manchester United vs Newcastle",
+      "time": "22:45",
+      "status": "UPCOMING",
+      "league": "Premier League"
+    },
+    {
+      "title": "Atalanta vs Fiorentina",
+      "time": "21:00",
+      "status": "UPCOMING",
+      "league": "Serie A"
+    },
+    {
+      "title": "Valencia vs Villarreal",
+      "time": "23:10",
+      "status": "UPCOMING",
+      "league": "La Liga"
+    },
+    {
+      "title": "Leipzig vs Frankfurt",
+      "time": "22:20",
+      "status": "UPCOMING",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "Monaco vs Nice",
+      "time": "21:40",
+      "status": "UPCOMING",
+      "league": "Ligue 1"
+    }
+  ],
+
+  "replays": [
+    {
+      "title": "Chelsea vs Tottenham",
+      "time": "Yesterday",
+      "status": "REPLAY",
+      "league": "Premier League"
+    },
+    {
+      "title": "Inter vs Napoli",
+      "time": "2 days ago",
+      "status": "REPLAY",
+      "league": "Serie A"
+    },
+    {
+      "title": "Barcelona vs Atletico",
+      "time": "3 days ago",
+      "status": "REPLAY",
+      "league": "La Liga"
+    },
+    {
+      "title": "Bayern vs Stuttgart",
+      "time": "Last Week",
+      "status": "REPLAY",
+      "league": "Bundesliga"
+    },
+    {
+      "title": "PSG vs Lille",
+      "time": "Last Week",
+      "status": "REPLAY",
+      "league": "Ligue 1"
+    },
+    {
+      "title": "Roma vs Lazio",
+      "time": "5 days ago",
+      "status": "REPLAY",
+      "league": "Serie A"
+    },
+    {
+      "title": "Porto vs Sporting",
+      "time": "4 days ago",
+      "status": "REPLAY",
+      "league": "Primeira Liga"
+    }
+  ]
+}
